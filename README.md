@@ -1,5 +1,11 @@
 # MeanPostApp
+Adding and Deleting a post with title and message.
 
+To see the project in action goto VS Code terminal
+ # 1 Type `npm start` initiates the Angular Dev Server
+ # 2 Type `npm run start:server` triggers the Node.js server
+ # 3 Type `mongod` starts the mongoDB local server & use any client like Robo3T
+ 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
 ## Development server
