@@ -8,6 +8,16 @@ To see the project in action goto VS Code terminal
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
+## Screenshots
+### With two posts
+![screenshot1](mapp3.png)
+### Post data in DB
+![screenshot2](mapp2.png)
+### Deleted one post
+![screenshot3](mapp4.png)
+### Updated in DB
+![screenshot4](mapp5.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
